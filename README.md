@@ -61,7 +61,7 @@
 3. 安装依赖
 
     ```sh
-    cd pb_rmsimulation
+    cd PB_RMSimulation
 
     rosdep install -r --from-paths src --ignore-src --rosdistro $ROS_DISTRO -y
     ```
